@@ -1,5 +1,3 @@
-# Exam-time-pc-lockdown
-"A Python-based system that locks down a PC during exams to prevent malpractice"
 # Exam-Time PC Lockdown System
 
 A Python-based system that locks a PC into a controlled "exam mode" to prevent malpractice during computer-based tests — blocking distracting apps, locking key folders, and running a fullscreen countdown that can't be closed until time is up.
