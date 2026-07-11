@@ -1,4 +1,4 @@
-# exam-time-pc-lockdown
+# Exam-time-pc-lockdown
 "A Python-based system that locks down a PC during exams to prevent malpractice"
 # Exam-Time PC Lockdown System
 
